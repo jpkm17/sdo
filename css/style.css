@@ -60,4 +60,9 @@ p, .tia{
     width: 50%;
     margin-left:auto;
     margin-right: auto;
+    margin-bottom: 0;
+}
+
+p, .segundo{
+    margin-top:10px;
 }
